@@ -1,5 +1,44 @@
-# Vue 3 + TypeScript + Vite
+# LyricSync
 
-This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+I want to create a simple app to sync lyrics with instrumental loaded from either local audio file or audio URL that is added to the web app. This will be used to create a Spotify-like lyrics scroll effect.
 
-Learn more about the recommended Project Setup and IDE Support in the [Vue Docs TypeScript Guide](https://vuejs.org/guide/typescript/overview.html#project-setup).
+## What will do?
+
+I want it to...
+1. Allow me to export a JSON file with the timestamp information for lyrics.
+2. Allow me to possibly export a video of the lyrics highlight with instrumental background.
+
+> [!IMPORTANT]
+> You can track what is currently being worked on in the [.TODO file](.TODO)
+
+## What did I use?
+
+- Vue 3 with Typescript (Vite template): https://vite.dev/guide/ 
+
+## How to run it?
+
+I am using [pnpm package manager](https://pnpm.io/) for this project. Please use the following commands to do the different operations. Feel free to replace `pnpm` with your favorite package manager like yarn, bun, npm, etc.
+
+### Install dependencies
+
+```sh
+pnpm install
+```
+
+### Start development server
+
+```sh
+pnpm dev
+```
+
+### Test & Build production assets
+
+```sh
+pnpm build
+```
+
+### Run production preview
+
+```sh
+pnpm preview
+```
