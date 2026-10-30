@@ -1,3 +1,5 @@
+import { fileURLToPath } from "node:url";
+
 import { defineConfig } from "vite";
 import autoImport from "unplugin-auto-import/vite";
 import components from "unplugin-vue-components/vite";
@@ -23,4 +25,9 @@ export default defineConfig({
     vue(),
     tailwindcss(),
   ],
+  resolve: {
+    alias: {
+      '~': fileURLToPath(new URL('./src', import.meta.url))
+    }
+  }
 });
