@@ -1,4 +1,5 @@
 ✔  Update README with project description and setup information @started(26-10-29 21:23) @done(26-10-29 21:29) @lasted(6m54s)
 ✔  Set up release please for versioning and changelog generation @started(26-10-29 21:39) @done(26-10-29 21:48) @lasted(9m46s)
+✔  Update release-please to use config file @started(26-10-29 21:54) @done(26-10-29 21:57) @lasted(3m59s)
 ☐  Remove boilerplate code
 ☐  Add basic app dependencies (e.g., Pinia, WaveSurfer.js, VueUse, etc.)
