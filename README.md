@@ -5,6 +5,7 @@ I want to create a simple app to sync lyrics with instrumental loaded from eithe
 ## What will do?
 
 I want it to...
+
 1. Allow me to export a JSON file with the timestamp information for lyrics.
 2. Allow me to possibly export a video of the lyrics highlight with instrumental background.
 
@@ -13,7 +14,13 @@ I want it to...
 
 ## What did I use?
 
-- Vue 3 with Typescript (Vite template): https://vite.dev/guide/ 
+| Name                                   | Used for                        | URL                                                                                                                                         |
+| -------------------------------------- | ------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
+| Vue 3 with Typescript (Vite)           | The base framework              | [link](https://vite.dev/guide/)                                                                                                             |
+| TailwindCSS v4                         | Used for UI framework           | [link](https://tailwindcss.com/docs/installation/using-vite)                                                                                |
+| Vue Router v5                          | For file-based routing          | [link](https://router.vuejs.org/file-based-routing/)                                                                                        |
+| Pinia                                  | For state management            | [link](https://pinia.vuejs.org/getting-started.html)                                                                                        |
+| Unplugin (Auto Import & Vue Component) | For auto-import of common files | [link](https://github.com/unplugin/unplugin-auto-import) and [link](https://github.com/unplugin/unplugin-vue-components?tab=readme-ov-file) |
 
 ## How to run it?
 
