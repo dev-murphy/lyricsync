@@ -3,5 +3,5 @@
 ✔  Update release-please to use config file @started(26-10-29 21:54) @done(26-10-29 21:57) @lasted(3m59s)
 ✔  Remove config files for release please action @started(26-10-29 22:15) @done(26-10-29 22:15) @lasted(45s)
 ✔  Add MIT license file @started(26-10-29 22:28) @done(26-10-29 22:28) @lasted(29s)
-☐  Remove boilerplate code
+✔  Remove boilerplate code @started(26-10-29 22:32) @done(26-10-29 22:39) @lasted(7m40s)
 ☐  Add basic app dependencies (e.g., Pinia, WaveSurfer.js, VueUse, etc.)
