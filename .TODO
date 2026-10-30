@@ -4,4 +4,4 @@
 ✔  Remove config files for release please action @started(26-10-29 22:15) @done(26-10-29 22:15) @lasted(45s)
 ✔  Add MIT license file @started(26-10-29 22:28) @done(26-10-29 22:28) @lasted(29s)
 ✔  Remove boilerplate code @started(26-10-29 22:32) @done(26-10-29 22:39) @lasted(7m40s)
-☐  Add basic app dependencies (e.g., Pinia, WaveSurfer.js, VueUse, etc.)
+✔  Add basic app dependencies (e.g., Pinia, WaveSurfer.js, VueUse, etc.) @started(26-10-29 22:42) @done(26-10-30 07:27) @lasted(8h45m3s)
