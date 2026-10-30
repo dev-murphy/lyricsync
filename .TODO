@@ -1,0 +1,4 @@
+✔  Update README with project description and setup information @started(26-10-29 21:23) @done(26-10-29 21:29) @lasted(6m54s)
+☐  Set up semantic release for versioning and changelog generation
+☐  Remove boilerplate code
+☐  Add basic app dependencies (e.g., Pinia, WaveSurfer.js, VueUse, etc.)
