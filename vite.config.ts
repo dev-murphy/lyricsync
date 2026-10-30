@@ -10,6 +10,7 @@ export default defineConfig({
   plugins: [
     autoImport({
       imports: ["vue"],
+      dirs: ["src/stores"],
       dts: "src/types/auto-imports.d.ts",
     }),
     components({
